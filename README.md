@@ -1,4 +1,4 @@
-# Baritone Spawner Helper v2
+# Baritone Spawner Helper 
 
 A lightweight Fabric client-side helper for Baritone on Minecraft `1.21.4`.
 
