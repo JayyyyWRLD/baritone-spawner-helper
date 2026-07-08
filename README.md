@@ -79,7 +79,6 @@ MIT License.
 
 Repo description GitHub:
 
-```text
 A lightweight Fabric companion mod for Baritone that detects dropped spawners and routes to them automatically.
 ````
 
